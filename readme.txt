@@ -7,3 +7,5 @@ Git is free software distributed under the GPL.
 add some new words
 first modifing
 second modifing
+
+self learning
